@@ -10,6 +10,7 @@ public class HelloWorldApplication {
 	 @GetMapping("/")
 		public String home() {
 			return "Azure devops classes";
+			
 		}
 
 
